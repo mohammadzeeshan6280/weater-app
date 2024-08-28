@@ -151,5 +151,9 @@ body{
         height: 40px;
         padding: 10px 10px;
     }
+
+    .details{
+        padding: 0px;
+    }
 }
 
